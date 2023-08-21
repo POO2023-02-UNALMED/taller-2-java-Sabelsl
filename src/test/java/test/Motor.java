@@ -7,10 +7,8 @@ public class Motor {
 	
 	public void cambiarRegistro(int num){
 		registro = num;
-}
 		if (motor == "electrico")
 			tipo= motor;
 }
 		
 	}
-}
